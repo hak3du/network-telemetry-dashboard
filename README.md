@@ -131,8 +131,4 @@ This scaffold includes a comprehensive set of modern web development tools:
 
 1. **Clone this scaffold** to jumpstart your project
 
-3. **Start building** with intelligent code generation and assistance
-4. **Deploy with confidence** using the production-ready setup
-
-
-Built with ❤️ for the developer community. Supercharged by [Z.ai](https://chat.z.ai) 🚀
+3. **Start building** with intelligent cBuilt with ❤️ for the developer community. Supercharged by [
